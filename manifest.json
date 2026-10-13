@@ -4,7 +4,7 @@
   "description": "Quickly access and manage Google Tasks.",
   "version": "1.4.7",
   "author": "Nhân Trí",
-  "homepage_url": "https://github.com/tenkeyful/Google-Tasks",
+  "homepage_url": "https://github.com/tenkeyful/google-tasks",
   "background": {
     "scripts": [
       "background.js"
